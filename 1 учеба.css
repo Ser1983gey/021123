@@ -1,0 +1,66 @@
+body{
+background-image: url("C:\Users\СЕРГЕЙ\Downloads\110675-kartinka-atmosfera-lazur-nebo-akva-2560x1440.jpg");
+}
+#frame{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: white;
+	display: table;
+}
+header{
+	height: 30px;
+	width: 90%;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+}
+nav {
+	height: 30px;
+	width: 90%;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-family: Conic Sans MS;
+}
+main {
+    height: 400px;
+	width: 65%;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+	margin-top: 10px;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	font-family: Conic Sans MS;
+}
+aside{
+	height: 400px;
+	width: 25%;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+	margin-top: 10px;
+	float: right;
+	text-align: center;
+	font-size: 20px;
+	font-family: Conic Sans MS;
+}
+.clear{
+	clear: both;
+}
+footer{
+    height: 400px;
+	width: 70%;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+	margin-top: 10px;
+	float: right;
+	text-align: center;
+	font-size: 20px;
+	font-family: Conic Sans MS;
+}
